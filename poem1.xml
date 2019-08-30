@@ -1,10 +1,11 @@
-red
-blue
-purple
-yellow
-pink
-orange 
-unicorn
-green
-these are the colours of rainbow
-and unicorn
+<test><Col>red</Col>
+<Col>blue</Col>
+<Col>purple</Col>
+<Col>yellow</Col>
+<Col>pink</Col>
+<Col>orange </Col>
+<Col>unicorn</Col>
+<Col>green</Col>
+<Col>these are the colours of rainbow</Col>
+<Col>and unicorn</Col>
+</test>
